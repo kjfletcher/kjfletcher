@@ -1,4 +1,6 @@
-### Hi there 👋
+I am Kevin Fletcher and I am a Ph.D. student at Penn State University in the Department of Meteorology and Atmospheric Science
+
+I work on numerical modeling of greenhouse gas emissions primarily using WRF.
 
 <!--
 **kjfletcher/kjfletcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
